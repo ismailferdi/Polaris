@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+mlruns/
+artifacts/*.pt
+artifacts/*.zip
+videos/
+*.db
+.vscode/
+!artifacts/.gitkeep
+!videos/.gitkeep
