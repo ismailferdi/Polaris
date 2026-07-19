@@ -8,3 +8,4 @@ videos/
 .vscode/
 !artifacts/.gitkeep
 !videos/.gitkeep
+polaris.md
